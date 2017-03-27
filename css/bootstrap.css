@@ -6622,3 +6622,12 @@ label{
 	}
 
 }
+
+@media screen and (max-width: 420px){	
+.container{
+    width: 400px; 	
+	}
+
+}
+
+
