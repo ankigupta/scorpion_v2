@@ -6589,7 +6589,7 @@ button.close {
 }
 
 
-#tf-home{
+.overlay{
     background: url(../img/heromobile.png);
     background-size: cover;
     background-position: center;
@@ -6617,7 +6617,7 @@ label{
 .hover-bg .hover-text {
 	padding: 22% 10%;}
 	
-.content{
+.overlay{
     background: url(../img/heromobile.png);
     background-size: cover;
     background-position: center;
