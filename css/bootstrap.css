@@ -6613,17 +6613,19 @@ label{
     padding: 12% 10%;
 }
 }
-@media screen and (max-width: 900px){
+@media screen and (max-width: 320px){
 .hover-bg .hover-text {
 	padding: 22% 10%;}
 	
-.overlay{
+#tf-home{
     background: url(../img/heromobile.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: #cfcfcf;
+    max-width: 100%; 	
+	
 	
 
 
