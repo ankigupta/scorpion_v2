@@ -1,10 +1,10 @@
-@media (max-width: 768px){
+@media screen and (max-width: 768px){
   .content {
 	padding: 40% 0 0;
 	}
 }
 
-@media (max-width: 603px){
+@media screen and (max-width: 603px){
 #tf-menu.navbar-default {
 	background-color: rgba(0, 0, 0, 0.79);
 	}
@@ -40,7 +40,7 @@ label{
     padding: 12% 10%;
 }
 }
-@media (max-width: 360px){
+@media screen and (max-width: 360px){
 .hover-bg .hover-text {
     padding: 22% 10%;
 
